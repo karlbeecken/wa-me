@@ -1,0 +1,24 @@
+{
+  "name": "wa-me",
+  "version": "1.0.0",
+  "description": "A simple module to create wa.me links",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/karlbeecken/wa-me.git"
+  },
+  "keywords": [
+    "whatsapp",
+    "wa-me",
+    "link"
+  ],
+  "author": "Karl Beecken",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/karlbeecken/wa-me/issues"
+  },
+  "homepage": "https://github.com/karlbeecken/wa-me#readme"
+}

@@ -1,6 +1,6 @@
 {
   "name": "wa-me-generator",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "A simple module to create wa.me links",
   "main": "index.js",
   "types": "index.d.ts",

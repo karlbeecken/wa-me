@@ -15,5 +15,5 @@ exports.createFromNumber = (number) => {
 exports.createFromNumberWithMessage = (number, message) => {
   number = number.replace(/[^0-9]/g, "");
   message = encodeURIComponent(message);
-  return `https://wa.me/${number}?text=${message}`;
+  return `https://api.whatsapp.com/send/?phone=${number}&text=${message}`;
 };
